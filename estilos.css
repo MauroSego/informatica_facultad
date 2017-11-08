@@ -78,3 +78,20 @@ hr{
 	width: 70px;
 	height: 70px;
 }
+.tips{
+	display: inline-block;
+	width: 925px;
+}
+.tip img{
+	width: 125px;
+	height: 125px;
+	border: 1px solid #d2d2d2;
+	padding: 0.5em;
+}
+.tip h3{
+	margin: 0 0 1em 0;
+}
+.articulo_tip{
+	display: inline-block;
+	width: 80%;
+}
