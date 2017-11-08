@@ -75,8 +75,9 @@ hr{
 	height: 95px;
 }
 .imagen_signos{
-	width: 70px;
-	height: 70px;
+	width: 80px;
+	height: 80px;
+	margin: 0.2em;
 }
 .tips{
 	display: inline-block;
@@ -94,4 +95,29 @@ hr{
 .articulo_tip{
 	display: inline-block;
 	width: 80%;
+}
+.articulo_footer{
+	width: 620px;
+	color: white;
+	float: left;
+}
+.articulo_footer img{
+	float: left;
+	border: 1px solid #ededed;
+	padding: 5px;
+}
+.articulo_footer p{
+	text-align: justify;
+}
+.horoscopo{
+	width: 280px;
+	float:left;
+	margin: 0 2em;
+	color: white;
+}
+.contacto{
+	width: 230px;
+	float: left;
+	margin: 0 2em;
+	color: white;
 }
