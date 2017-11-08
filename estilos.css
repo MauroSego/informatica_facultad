@@ -16,6 +16,7 @@ hr{
 }
 .main{
 	background-color: #fff;
+	padding: 0 2em;
 }
 .clasicos{
 	width: 925px;
@@ -95,6 +96,9 @@ hr{
 .articulo_tip{
 	display: inline-block;
 	width: 80%;
+}
+#footer{
+	padding: 0 2em;
 }
 .articulo_footer{
 	width: 620px;
