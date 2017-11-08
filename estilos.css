@@ -18,14 +18,15 @@ hr{
 	background-color: #fff;
 }
 .clasicos{
-	width: 800px;
+	width: 925px;
 	height: 410px;
+	display: inline-block;
 }
 .articulo{
-	width: 240px;
+	width: 265px;
 	height: 310px;
 	border: 1px solid red;
-	margin: 1em 0.5em 2em 0.5em;
+	margin: 1em 1em 2.5em 1em;
 	padding: 0.2em;
 	float: left;
 }
@@ -39,8 +40,39 @@ hr{
 	width: 230px;
 }
 .sponsors{
-	width: 270px;
+	width: 300px;
 	float: right;
+	display: inline-block;
+}
+.sponsor_principal{
+	display: block;
+	border: 1px solid #e2e2e2;
+	padding: .5em 3em;
+	text-align: center;
+}
+.sponsor2{
+	width: 100px;
+	height: 100px;
+}
+.sponsor3{
+	width: 142px;
+	height: 107px;
+}
+.sponsor4{
+	width: 95px;
+	height: 110px;
+}
+.sponsor5{
+	width: 140px;
+	height: 110px;
+}
+.sponsor6{
+	width: 105px;
+	height: 95px;
+}
+.sponsor7{
+	width: 130px;
+	height: 95px;
 }
 .imagen_signos{
 	width: 70px;
