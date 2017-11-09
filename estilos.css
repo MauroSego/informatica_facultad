@@ -6,6 +6,46 @@ body{
 #header{
 	background-color: #000;
 	color: white;
+	padding: 2em;
+}
+.box-titulo{
+	border: 1px solid red;
+	width: 170px;
+	color: #999a95;
+	display: inline-block;
+}
+.titulo{
+	font-size: 40px;
+	text-align: right;
+	margin: 0;
+
+}
+.titulo:First-letter{
+	text-transform: capitalize;
+	color: #ffff05;
+}
+.pie_titulo{
+	text-align: right;
+	margin: 0;
+}
+#menu{
+	border: 1px solid red;
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+#menu>ul{
+	padding: 0;
+}
+#menu>ul>li{
+	display: inline-block;
+	margin: 0 35px;
+	font-size: 18px
+}
+#menu>ul>li>span{
+	display: block;
+	color: #656b61;
 }
 .img_principal{
 	width: 930px;
